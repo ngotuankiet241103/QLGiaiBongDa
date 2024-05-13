@@ -1,0 +1,150 @@
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\bin\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Main.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CopyComplete
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyGiaiDau.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_VongLoai.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChiTietGiaiDau.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Goal.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_AddTournament.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyDoi.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanlyDoiTG.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTeam.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTournamentTeam.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveRound.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_TuKet.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyCauThu.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayer.resources
+C:\Users\MSI PC\source\repos\QLGiaiBongDa\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Penalty.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_AddTournament.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChiTietGiaiDau.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Goal.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Login.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Main.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Penalty.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyCauThu.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyDoi.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanlyDoiTG.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyGiaiDau.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayer.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTeam.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTournamentTeam.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveRound.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_TuKet.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_VongLoai.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBo.BFB0E7AF.Up2Date
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\Administrator\Desktop\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QuanLyBanHang.DataLayer.dll
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_AddTournament.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChiTietGiaiDau.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Goal.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Login.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Main.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Penalty.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_PhanQuyen.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyCauThu.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyDoi.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanlyDoiTG.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyGiaiDau.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayer.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTeam.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTournamentTeam.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveRound.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_TuKet.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_VongLoai.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CopyComplete
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyNguoiDung.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SignUp.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveUser.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChangePassword.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_AddTournament.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChangePassword.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChiTietGiaiDau.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Goal.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Login.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Main.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Penalty.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_PhanQuyen.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyCauThu.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyDoi.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanlyDoiTG.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyGiaiDau.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyNguoiDung.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayer.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTeam.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTournamentTeam.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveRound.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveUser.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SignUp.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_TuKet.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_VongLoai.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CopyComplete
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb
+C:\Users\AdminPc\Downloads\CuoiKySQL\QLGiaiBongDa-ok\QLGiaiBongDa-main\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayerByFile.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe.config
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\bin\Debug\QLGiaiBongDa.pdb
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.AssemblyReference.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_AddTournament.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChangePassword.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_ChiTietGiaiDau.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Goal.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Login.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Main.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_Penalty.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_PhanQuyen.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyCauThu.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyDoi.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanlyDoiTG.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyGiaiDau.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_QuanLyNguoiDung.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayer.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SavePlayerByFile.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTeam.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveTournamentTeam.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveRound.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SaveUser.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_SignUp.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_TuKet.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Frm_VongLoai.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.Properties.Resources.resources
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.GenerateResource.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CoreCompileInputs.cache
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.csproj.CopyComplete
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.exe
+C:\Users\MSI PC\Downloads\QLGiaiBongDa-main\QLGiaiBongDa\obj\Debug\QLGiaiBongDa.pdb

@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C52EF0CF-4AE9-4F4A-9946-EDAD2FFA7D10}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLGiaiBongDa</RootNamespace>
+    <AssemblyName>QLGiaiBongDa</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\Downloads\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="QuanLyBanHang.DataLayer">
+      <HintPath>..\..\..\..\Downloads\QuanLyBanHang.DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLayer\BaseService.cs" />
+    <Compile Include="BusinessLayer\BaseServiceImpl.cs" />
+    <Compile Include="BusinessLayer\GoalService.cs" />
+    <Compile Include="BusinessLayer\GroupMatchService.cs" />
+    <Compile Include="BusinessLayer\GroupService.cs" />
+    <Compile Include="BusinessLayer\GroupTeamService.cs" />
+    <Compile Include="BusinessLayer\KnockoutBranchService.cs" />
+    <Compile Include="BusinessLayer\KnockoutMatchService.cs" />
+    <Compile Include="BusinessLayer\MatchesService.cs" />
+    <Compile Include="BusinessLayer\MatchResultsService.cs" />
+    <Compile Include="BusinessLayer\PenaltyService.cs" />
+    <Compile Include="BusinessLayer\PlayerService.cs" />
+    <Compile Include="BusinessLayer\RoundService.cs" />
+    <Compile Include="BusinessLayer\System.cs" />
+    <Compile Include="BusinessLayer\TeamService.cs" />
+    <Compile Include="BusinessLayer\TournamentService.cs" />
+    <Compile Include="BusinessLayer\TournamentTeamService.cs" />
+    <Compile Include="Cls_Main.cs" />
+    <Compile Include="DB.cs" />
+    <Compile Include="DTO\Goal.cs" />
+    <Compile Include="DTO\Group.cs" />
+    <Compile Include="DTO\GroupMatch.cs" />
+    <Compile Include="DTO\GroupTeam.cs" />
+    <Compile Include="DTO\KnockoutBranches.cs" />
+    <Compile Include="DTO\KnockoutMatch.cs" />
+    <Compile Include="DTO\Match.cs" />
+    <Compile Include="DTO\Matches.cs" />
+    <Compile Include="DTO\MatchResults.cs" />
+    <Compile Include="DTO\Penalty.cs" />
+    <Compile Include="DTO\Player.cs" />
+    <Compile Include="DTO\Round.cs" />
+    <Compile Include="DTO\Team.cs" />
+    <Compile Include="DTO\Tournament.cs" />
+    <Compile Include="DTO\TournamentTeam.cs" />
+    <Compile Include="DTO\User.cs" />
+    <Compile Include="Frm_AddTournament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_AddTournament.Designer.cs">
+      <DependentUpon>Frm_AddTournament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Base.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Base.Designer.cs">
+      <DependentUpon>Frm_Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ChangePassword.Designer.cs">
+      <DependentUpon>Frm_ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_ChiTietGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_ChiTietGiaiDau.Designer.cs">
+      <DependentUpon>Frm_ChiTietGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Goal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Goal.Designer.cs">
+      <DependentUpon>Frm_Goal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Login.Designer.cs">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.Designer.cs">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Penalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Penalty.Designer.cs">
+      <DependentUpon>Frm_Penalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PhanQuyen.Designer.cs">
+      <DependentUpon>Frm_PhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLyCauThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLyCauThu.Designer.cs">
+      <DependentUpon>Frm_QuanLyCauThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLyDoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLyDoi.Designer.cs">
+      <DependentUpon>Frm_QuanLyDoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanlyDoiTG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanlyDoiTG.Designer.cs">
+      <DependentUpon>Frm_QuanlyDoiTG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLyGiaiDau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLyGiaiDau.Designer.cs">
+      <DependentUpon>Frm_QuanLyGiaiDau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_QuanLyNguoiDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_QuanLyNguoiDung.Designer.cs">
+      <DependentUpon>Frm_QuanLyNguoiDung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SavePlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SavePlayer.Designer.cs">
+      <DependentUpon>Frm_SavePlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SavePlayerByFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SavePlayerByFile.Designer.cs">
+      <DependentUpon>Frm_SavePlayerByFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SaveTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SaveTeam.Designer.cs">
+      <DependentUpon>Frm_SaveTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SaveTournamentTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SaveTournamentTeam.Designer.cs">
+      <DependentUpon>Frm_SaveTournamentTeam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SaveRound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SaveRound.Designer.cs">
+      <DependentUpon>Frm_SaveRound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SaveUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SaveUser.Designer.cs">
+      <DependentUpon>Frm_SaveUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_SignUp.Designer.cs">
+      <DependentUpon>Frm_SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_TuKet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_TuKet.Designer.cs">
+      <DependentUpon>Frm_TuKet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_VongLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_VongLoai.Designer.cs">
+      <DependentUpon>Frm_VongLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapper\GroupMapper.cs" />
+    <Compile Include="Mapper\GroupMatchMapper.cs" />
+    <Compile Include="Mapper\GroupTeamMapper.cs" />
+    <Compile Include="Mapper\KnockoutBranchMapper.cs" />
+    <Compile Include="Mapper\KnockoutMatchMapper.cs" />
+    <Compile Include="Mapper\MatchMapper.cs" />
+    <Compile Include="Mapper\ModelMapper.cs" />
+    <Compile Include="Mapper\PlayerMapper.cs" />
+    <Compile Include="Mapper\RoundMapper.cs" />
+    <Compile Include="Mapper\TeamMapper.cs" />
+    <Compile Include="Mapper\TournamentMapper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QUYEN.cs" />
+    <EmbeddedResource Include="Frm_AddTournament.resx">
+      <DependentUpon>Frm_AddTournament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ChangePassword.resx">
+      <DependentUpon>Frm_ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_ChiTietGiaiDau.resx">
+      <DependentUpon>Frm_ChiTietGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Goal.resx">
+      <DependentUpon>Frm_Goal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Login.resx">
+      <DependentUpon>Frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main.resx">
+      <DependentUpon>Frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Penalty.resx">
+      <DependentUpon>Frm_Penalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PhanQuyen.resx">
+      <DependentUpon>Frm_PhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLyCauThu.resx">
+      <DependentUpon>Frm_QuanLyCauThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLyDoi.resx">
+      <DependentUpon>Frm_QuanLyDoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanlyDoiTG.resx">
+      <DependentUpon>Frm_QuanlyDoiTG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLyGiaiDau.resx">
+      <DependentUpon>Frm_QuanLyGiaiDau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_QuanLyNguoiDung.resx">
+      <DependentUpon>Frm_QuanLyNguoiDung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SavePlayer.resx">
+      <DependentUpon>Frm_SavePlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SavePlayerByFile.resx">
+      <DependentUpon>Frm_SavePlayerByFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SaveTeam.resx">
+      <DependentUpon>Frm_SaveTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SaveTournamentTeam.resx">
+      <DependentUpon>Frm_SaveTournamentTeam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SaveRound.resx">
+      <DependentUpon>Frm_SaveRound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SaveUser.resx">
+      <DependentUpon>Frm_SaveUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_SignUp.resx">
+      <DependentUpon>Frm_SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_TuKet.resx">
+      <DependentUpon>Frm_TuKet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_VongLoai.resx">
+      <DependentUpon>Frm_VongLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
